@@ -20,7 +20,8 @@ const ALLOWED_ORIGINS = {
   production: [
     "https://parandx.com",
     "https://www.parandx.com",
-    "https://aryafoulad.parandx.com"
+    "https://aryafoulad.parandx.com",
+    "https://www.v2.parandx.com",
   ],
   development: [
     "http://localhost:3003",
