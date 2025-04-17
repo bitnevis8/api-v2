@@ -1,0 +1,46 @@
+[
+  {
+    "roleName": "admin",
+    "permissions": [
+      "view-users",
+      "create-users",
+      "edit-users",
+      "delete-users",
+      "view-roles",
+      "create-roles",
+      "edit-roles",
+      "delete-roles",
+      "view-permissions",
+      "create-permissions",
+      "edit-permissions",
+      "delete-permissions",
+      "upload-files",
+      "delete-files",
+      "view-mission-orders",
+      "create-mission-orders",
+      "edit-mission-orders",
+      "delete-mission-orders"
+    ]
+  },
+  {
+    "roleName": "staff",
+    "permissions": [
+      "view-users",
+      "edit-users",
+      "view-roles",
+      "view-permissions",
+      "upload-files",
+      "view-mission-orders",
+      "edit-mission-orders"
+    ]
+  },
+  {
+    "roleName": "user",
+    "permissions": [
+      "view-mission-orders",
+      "create-mission-orders",
+      "edit-mission-orders",
+      "upload-files"
+    ]
+  }
+]
