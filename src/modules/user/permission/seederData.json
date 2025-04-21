@@ -1,0 +1,92 @@
+[
+  {
+    "name": "view-users",
+    "description": "View users",
+    "module": "user"
+  },
+  {
+    "name": "create-users",
+    "description": "Create users",
+    "module": "user"
+  },
+  {
+    "name": "edit-users",
+    "description": "Edit users",
+    "module": "user"
+  },
+  {
+    "name": "delete-users",
+    "description": "Delete users",
+    "module": "user"
+  },
+  {
+    "name": "view-roles",
+    "description": "View roles",
+    "module": "user"
+  },
+  {
+    "name": "create-roles",
+    "description": "Create roles",
+    "module": "user"
+  },
+  {
+    "name": "edit-roles",
+    "description": "Edit roles",
+    "module": "user"
+  },
+  {
+    "name": "delete-roles",
+    "description": "Delete roles",
+    "module": "user"
+  },
+  {
+    "name": "view-permissions",
+    "description": "View permissions",
+    "module": "user"
+  },
+  {
+    "name": "create-permissions",
+    "description": "Create permissions",
+    "module": "user"
+  },
+  {
+    "name": "edit-permissions",
+    "description": "Edit permissions",
+    "module": "user"
+  },
+  {
+    "name": "delete-permissions",
+    "description": "Delete permissions",
+    "module": "user"
+  },
+  {
+    "name": "upload-files",
+    "description": "Upload files",
+    "module": "fileUpload"
+  },
+  {
+    "name": "delete-files",
+    "description": "Delete files",
+    "module": "fileUpload"
+  },
+  {
+    "name": "view-mission-orders",
+    "description": "View mission orders",
+    "module": "aryafoulad"
+  },
+  {
+    "name": "create-mission-orders",
+    "description": "Create mission orders",
+    "module": "aryafoulad"
+  },
+  {
+    "name": "edit-mission-orders",
+    "description": "Edit mission orders",
+    "module": "aryafoulad"
+  },
+  {
+    "name": "delete-mission-orders",
+    "description": "Delete mission orders",
+    "module": "aryafoulad"
+  }
+] 
